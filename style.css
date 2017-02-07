@@ -2,8 +2,10 @@ header {
 	background-color: gold;
 	color: maroon;
 	font-size: 40px;
+	font-family: 'Pangolin', cursive;
 }
 body {
 	background-color: maroon;
 	color: gold;
+	font-family: 'Roboto', sans-serif;
 }
