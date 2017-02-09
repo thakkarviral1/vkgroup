@@ -3,9 +3,11 @@ header {
 	color: maroon;
 	font-size: 40px;
 	font-family: 'Pangolin', cursive;
+	margin-right: 0px;
 }
 body {
 	background-color: maroon;
 	color: gold;
 	font-family: 'Roboto', sans-serif;
+	margin-right: 0px;
 }
