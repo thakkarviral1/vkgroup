@@ -1,13 +1,13 @@
 header {
-	background-color: gold;
-	color: maroon;
+	background-color: #8C8102;
+	color: #8C1202;
 	font-size: 40px;
 	font-family: 'Pangolin', cursive;
 	margin: 0px;
 }
 body {
-	background-color: maroon;
-	color: gold;
+	background-color: #8C1202;
+	color: #8C8102;
 	font-family: 'Roboto', sans-serif;
 	margin-right: 0px;
 }
